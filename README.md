@@ -4,6 +4,9 @@ lxd_network
 A module for managing the networks configuration in lxd.<br/>
 It is heavily based on the lxd_profile module by [Hiroaki Nakamura](https://github.com/hnakamur)
 
+I do not maintain this repo anymore. All lxd modules related that I will develope will be directly in my the library folder of my [lxd](https://github.com/Nani-o/ansible-role-lxd/tree/master/library) role
+=
+
 Requirements
 ------------
 
